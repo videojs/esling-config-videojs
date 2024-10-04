@@ -3,7 +3,7 @@ module.exports = {
   parserOptions: {
     sourceType: 'module',
     impliedStrict: true,
-    ecmaVersion: 2017
+    ecmaVersion: 2018
   },
   env: {
     commonjs: true,

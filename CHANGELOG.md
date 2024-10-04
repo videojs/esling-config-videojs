@@ -1,3 +1,10 @@
+<a name="6.1.0"></a>
+# [6.1.0](https://github.com/videojs/eslint-config-videojs/compare/v6.0.0...v6.1.0) (2024-05-10)
+
+### Features
+
+* update ecmaVersion to 2018 ([#51](https://github.com/videojs/eslint-config-videojs/issues/51)) ([58ebed5](https://github.com/videojs/eslint-config-videojs/commit/58ebed5))
+
 <a name="6.0.0"></a>
 # [6.0.0](https://github.com/videojs/eslint-config-videojs/compare/v5.0.2...v6.0.0) (2021-05-28)
 
