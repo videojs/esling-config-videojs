@@ -1,5 +1,5 @@
 module.exports = {
-  plugins: ['markdown', 'json-light', 'jsdoc'],
+  plugins: ['markdown', 'json-light-pmb', 'jsdoc'],
   parserOptions: {
     sourceType: 'module',
     impliedStrict: true,

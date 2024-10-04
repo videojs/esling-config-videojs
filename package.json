@@ -54,7 +54,7 @@
     "@videojs/generator-helpers": "^3.2.0",
     "eslint": "^7.27.0",
     "eslint-plugin-jsdoc": "^35.0.0",
-    "eslint-plugin-json-light": "^1.0.3",
+    "eslint-plugin-json-light-pmb": "^1.0.7",
     "eslint-plugin-markdown": "^2.2.0",
     "videojs-generator-verify": "^4.1.3"
   },
